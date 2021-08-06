@@ -1,2 +1,5 @@
-saya membuat branch baru dan menambahkan file di repository yang telah di fork
-saya mengubah file newFile.txt
+saya membuat branch baru dan menambahkan file di repository yang telah di fork <br>  
+latihan squashig merge
+latihan squashing merge 2
+latihan squashing merge 3
+=======
