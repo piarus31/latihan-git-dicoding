@@ -1,1 +1,2 @@
 saya membuat branch baru dan menambahkan file di repository yang telah di fork
+latihan squashig merge.
